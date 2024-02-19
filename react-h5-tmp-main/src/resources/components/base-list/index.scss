@@ -1,0 +1,12 @@
+body {
+    // 空数据插画
+    .baseList-adm-empty {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        .adm-empty-description {
+            font-size: 43px;
+        }
+    }
+}
